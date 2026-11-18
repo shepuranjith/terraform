@@ -56,21 +56,7 @@ Each day or topic has its own dedicated folder containing `.tf` configuration fi
 
 ---
 
-## 🛠️ How to Add Your Daily Folder to This Repo
 
-1. **Create a folder for the day** (e.g., `day-01-intro` or `02-terraform-block`):
-   ```bash
-   mkdir day-01-intro
-   ```
-2. **Add your `.tf` files and a `README.md`** explaining what you built.
-3. **Stage, commit, and push one folder at a time:**
-   ```bash
-   git add day-01-intro/
-   git commit -m "Add Day 01: Introduction to Terraform"
-   git push
-   ```
-
----
 
 ## 🤝 Contributing with Friends
 1. **Fork** or **Clone** this repository:
