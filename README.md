@@ -82,6 +82,10 @@ Each day or topic has its own dedicated folder containing `.tf` configuration fi
 
 ---
 
-## 👨‍💻 Author
-**Ranjith Shepur**  
-DevOps Engineer | GitHub: [@shepuranjith](https://github.com)
+
+## 👨‍💻 Author & Contact
+**Ranjith Shepur** — *DevOps Engineer*  
+* **GitHub:** [@shepuranjith](https://github.com)  
+* **Email:** [ranjith.s009@gmail.com](mailto:ranjith.s009@gmail.com)  
+* **Phone:** +91- 888 444 0640
+* linkedin: https://www.linkedin.com/in/shepur/
